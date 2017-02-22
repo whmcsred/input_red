@@ -12,7 +12,7 @@ Após ter feito este processo de envio você deverá ir até seu WHMCS em: Opç�
 Após efetuar esse processo basta cadastrar os bloqueios e tudo estará funcionando corretamente!
 
 # Créditos
-Módulo desenvolvido por Luciano Zanita<br/>
+Módulo desenvolvido por Luciano Zanita - WHMCS.RED<br/>
 Créditos a adobewordpress pela adpatação da tabela de pesquisa:  http://codepen.io/adobewordpress/pen/gbewLV<br/>
 Confira nosso site: http://whmcs.red<br/>
 Confira nosso fórum: http://forum.whmcs.red<br/>
