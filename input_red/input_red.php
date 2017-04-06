@@ -6,7 +6,7 @@ function input_red_config() {
     $configarray = array(
     'name' => 'INPUT RED',
     'description' => 'Sistema desenvolvido para fins de bloquear campos de edição no cadastro do cliente.',
-    'version' => '0.2',
+    'version' => '0.3',
     'language' => 'portuguese-br',
     'author' => 'WHMCS.RED',
     );

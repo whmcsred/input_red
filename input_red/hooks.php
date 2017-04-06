@@ -28,7 +28,7 @@ if (!defined("WHMCS")){
 						foreach (Capsule::table('mod_inputred')->get() as $mod){
 							//Abre o campo para dividir o resultado do nome
 							$campo = explode('|', $mod->campo);
-							$bloqueiojavascript .= "$('#".$campo[0]."').prop('disabled', true); ";
+							$bloqueiojavascript .= "$('#".$campo[0]."').prop('readOnly', true); ";
 						}
 					}
 				}
